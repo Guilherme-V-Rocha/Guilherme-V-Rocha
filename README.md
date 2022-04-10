@@ -1,11 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on software engineer front-end
-- 🌱 I’m currently learning react.js + ts, redux, hooks, html semantic, css
-- 💬 Ask me about ...
-- 📫 How to reach me: guilhermevieirar14@gmail.com
-
-
 <div align="center">
   <a href="https://github.com/Guilherme-V-Rocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-V-Rocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -18,4 +10,13 @@
   <img align="center" alt="Guilherme-Vieira-Rocha-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Guilherme-Vieira-Rocha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Guilherme-Vieira-Rocha-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+</div>
+  
+  ##
+  
+ <div> 
+  <a href="https://instagram.com/zerom3ia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guilhermevieirar14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-v-rocha-6310381b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 </div>
