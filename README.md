@@ -35,8 +35,6 @@
 
 <div align="center">
 
-<br>
-
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 &nbsp;
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -64,11 +62,9 @@
 <br>
 
 <a href="https://linkedin.com/in/SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Luiz+Eduardo+Vieira+Barreto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://github.com/Guilherme-V-Rocha">
-  <img src="https://img.shields.io/badge/GitHub-@Guilherme--V--Rocha-00FF7F?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" alt="GitHub" />
 </a>
 
 </div>
