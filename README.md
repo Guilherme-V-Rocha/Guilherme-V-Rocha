@@ -9,7 +9,9 @@
 > I'm a passionate **Frontend Developer** with strong expertise in React, Next.js, React Native, and Node.js. With a focus on creating elegant and functional user interfaces, I thrive in agile environments, delivering high-quality solutions for web and mobile applications.
 
 </div>
+
 ---
+
 <div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-V-Rocha&theme=dark&hide_border=true&background=000000&ring=00FF7F&fire=00FF7F&currDotNum=00FF7F&sideNums=FFFFFF&dates=FFFFFF&stroke=00FF7F" alt="GitHub Streak" />
