@@ -61,10 +61,8 @@
 
 <br>
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
-</a>
-&nbsp;
-<a href="https://github.com/Guilherme-V-Rocha">
+<a href="https://www.linkedin.com/in/guilherme-v-rocha-6310381b7/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
