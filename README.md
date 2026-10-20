@@ -10,11 +10,7 @@
 
 </div>
 
-<div align="center">
-
-## 📈 GitHub Streak & Top Languages
-
-<br>
+<div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-V-Rocha&theme=dark&hide_border=true&background=000000&ring=00FF7F&fire=00FF7F&currDotNum=00FF7F&sideNums=FFFFFF&dates=FFFFFF&stroke=00FF7F" alt="GitHub Streak" />
 
