@@ -22,14 +22,26 @@
 
 ---
 
-## 🌱 Currently
+## My Tech Stack:
 
-- Expanding my knowledge in **cloud infrastructure** and **microservices architecture**.
-- Deepening my experience with **Kubernetes** and **Terraform**.
-
+- Languages: JavaScript, TypeScript,
+- Web Development: React, Next.js
+- Mobile Development: React Native
+- Back-End & APIs: Go, Node.js, RESTful APIs
+- Cloud & DevOps: Docker
+- Agile Methodologies: Scrum, Kanban
+- Microservices Architecture: Scalable and modular systems
+  
 ---
 
-## 🔧 Tools & Technologies
+## Currently
+
+- Studying **Micro Frontends** — architecture of modular applications with independent deployment across teams.
+- Deepening my experience with **Node** and **Go**.
+- Learning **BFF (Backend for Frontend)** — pattern of building dedicated backend services tailored to each frontend client's needs.
+---
+
+## Tools & Technologies
 <div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 &nbsp;
@@ -51,7 +63,7 @@
 
 ---
 
-## 📫 Let's connect!
+## Let's connect!
 
 <a href="https://www.linkedin.com/in/guilherme-v-rocha-6310381b7/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
