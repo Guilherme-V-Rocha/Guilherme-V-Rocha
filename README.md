@@ -10,63 +10,6 @@
 
 </div>
 
----
-
-## 🔧 My Tech Stack
-
-<table>
-  <tr>
-    <td valign="top" width="50%" align="center">
-      <h4>💻 Languages</h4>
-      <br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-    </td>
-    <td valign="top" width="50%" align="center">
-      <h4>🌐 Web Development</h4>
-      <br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%" align="center">
-      <h4>📱 Mobile Development</h4>
-      <br>
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    </td>
-    <td valign="top" width="50%" align="center">
-      <h4>⚙️ Back-End & APIs</h4>
-      <br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/RESTful-FF6C37?style=flat-square&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%" align="center">
-      <h4>☁️ Cloud & DevOps</h4>
-      <br>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-    </td>
-    <td valign="top" width="50%" align="center">
-      <h4>📋 Agile Methodologies & Architecture</h4>
-      <br>
-      <img src="https://img.shields.io/badge/Scrum-000000?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Microservices-FF6347?style=flat-square&logoColor=white" />
-      <br><sub>Scalable and modular systems</sub>
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="center">
 
 ## 📈 GitHub Streak & Top Languages
