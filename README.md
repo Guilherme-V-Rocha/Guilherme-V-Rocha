@@ -16,8 +16,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-V-Rocha&theme=dark&hide_border=true&background=000000&ring=00FF7F&fire=00FF7F&currDotNum=00FF7F&sideNums=FFFFFF&dates=FFFFFF&stroke=00FF7F" alt="GitHub Streak" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-V-Rocha&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF7F&text_color=FFFFFF" alt="Top Languages" />
-
 </div>
 
 ---
